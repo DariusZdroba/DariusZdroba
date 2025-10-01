@@ -6,12 +6,12 @@ since you landed here, I'll briefly introduce myself:
 
 My name is Darius, I currently work at [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) as a Software Engineer and I’m passionate about **Engineering**, **Innovation**, **Cybersecurity**, and **Finance**, with an endless curiosity about how things work. 🛠️  
 
-### This "curiosity" thing was part of me my whole life.
+### This curiosity was part of me my whole life.
 
 
-As a kid I was the extremely curious kind, I’ve loved exploring and taking things apart—whenever I got toys as a gift, I dissasambled them to see what's inside, how they work, what are they made out of? 🔧
+I remember as a kid, I was curios about everything, I always took my toys apart just to see what's inside, my innocent mind was trying to comprehend how all of it works.🔧
 
-As a teenager, I became fascinated with technology and PCs, and I even built my own from spare parts at 13 to enjoy gaming on a budget. 🎮 
+As a teenager, I became fascinated by technology and PCs, and I started by building my own from spare parts at ~13 yo to enjoy gaming on a budget. 🎮 
 
 This natural curiosity eventually led me to **Software Engineering**, where I’m currently focused, I'm a thinker and like to find and cover edge cases. 💻  
 
