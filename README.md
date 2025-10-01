@@ -4,7 +4,7 @@ Hi viewer of my GitHub page👋,
 
 since you landed here, I'll briefly introduce myself:
 
-My name is Darius, I currently work at [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) as an Software Engineer and I’m passionate about **Engineering**, **Innovation**, **Cybersecurity**, and **Finance**, with an endless curiosity about how things work. 🛠️  
+My name is Darius, I currently work at [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) as a Software Engineer and I’m passionate about **Engineering**, **Innovation**, **Cybersecurity**, and **Finance**, with an endless curiosity about how things work. 🛠️  
 
 ### This "curiosity" thing was part of me my whole life.
 
